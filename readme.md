@@ -3,6 +3,6 @@
 ## install
 
 installation guide
-
-bash 
+```bash 
 npm install
+```
